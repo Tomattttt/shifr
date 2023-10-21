@@ -10,3 +10,18 @@ while True:
         break
     n = int(input('Введите шаг смещения: '))
     out = ''
+    for i in range(len(string)):
+        try:
+            ind = a.index(string[i])
+            out += a[(ind+n*v)%66]
+        except ValueError:
+                try:
+                    i = a.index(string[i])
+                    out += a[(ind+n*v)%66]
+                except ValueError:
+                    out += string[i]
+
+    print(out)
+    break
+
+
