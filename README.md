@@ -30,5 +30,6 @@
 
 5 тест с ошибкой если изначально не указать расшифровать или зашифровать сообщение. 
 
-![ошибка](https://github.com/Tomattttt/shifr/assets/146252320/7978eb27-6a0b-4a2a-ae19-8455271fd035)
+![ошибка](https://github.com/Tomattttt/shifr/assets/146252320/27223fe5-a8ad-4d20-9e98-f4d53af1f0c2)
+
 
